@@ -19,6 +19,14 @@ function App() {
   },
   {
     id: uuid(),
+    equipo: "Front End",
+    foto: "https://github.com/leobyncris.png",
+    nombre: "Leonardo Velasquez",
+    puesto: "Desarrollador de software",
+    fav: true
+  },
+  {
+    id: uuid(),
     equipo: "Programación",
     foto: "https://github.com/genesysrm.png",
     nombre: "Genesys Rondón",
